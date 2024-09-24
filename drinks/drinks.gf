@@ -2,7 +2,7 @@ abstract Drinks = {
 
    flags startCategory = Drink ;
 
-   category
+   cat
 
       BaseDrink;
       Drink;
@@ -13,7 +13,7 @@ abstract Drinks = {
       Temperature;
       Location;
 
-   customise
+   fun
 
       Kopi, Teh , Milo, KopiAndTea : BaseDrink;
       Condensed, Evaporated, NoMilk : Milk;
