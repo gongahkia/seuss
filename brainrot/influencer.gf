@@ -10,7 +10,6 @@ concrete Influencer of Brainrot = {
 
     lin
 
-        -- Person
         Friend = "friend";
         Family = "family";
         Stranger = "stranger";
@@ -18,7 +17,6 @@ concrete Influencer of Brainrot = {
         Dawg = "dawg";
         Blud = "blud";
 
-        -- Phrases
         TotallyLost = "I'm totally lost";
         Bruh = "bruh";
         Dead = "I'm dead";
@@ -37,7 +35,6 @@ concrete Influencer of Brainrot = {
         NoEdging = "no edging in class";
         AWholeBunchOfTurbulence = "a whole bunch of turbulence";
 
-        -- AddOns
         DefaultAddOns = "";
         Already = "already";
         Literally = "literally";
@@ -57,7 +54,6 @@ concrete Influencer of Brainrot = {
         Gooning = "gooning";
         WeGoGym = "we go gym";
 
-        -- References
         DefaultReference = "";
         NoCap = "no cap";
         WAP = "WAP";
@@ -93,6 +89,6 @@ concrete Influencer of Brainrot = {
 
         ----
 
-        RotAbout bro skibidiToilet literally grimaceShake = bro ++ " " ++ skibidiToilet ++ " " ++ literally ++ " " ++ grimaceShake;
+        YapAbout bro skibidiToilet literally grimaceShake = bro ++ " " ++ skibidiToilet ++ " " ++ literally ++ " " ++ grimaceShake;
 
 }

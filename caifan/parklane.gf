@@ -2,9 +2,9 @@ concrete Parklane of CaiFan = {
 
      lincat
 
-        BaseRice,
-        MainDish,
-        SideDish,
+        Carb,
+        Protein,
+        Vegetable,
         Gravy,
         Spiciness,
         AddOns,
@@ -13,40 +13,50 @@ concrete Parklane of CaiFan = {
 
     lin
 
+        DefaultRice = NoRice;
+        NoRice = "bu yao fan";
         WhiteRice = "bai fan";
-        BrownRice = "he fan";
+        BrownRice = "cao mi fan";
         FriedRice = "chao fan";
+        FriedNoodles = "chao mian";
+
+        Cereal = "mai pian";
+        Thai = "tai shi";
+        BlackPepper = "zhe ge";
+        Mapo = "mapo";
 
         Chicken = "ji rou";
         Fish = "yu pian";
         Pork = "zhu rou";
-        Tofu = "dou fu";
 
         Cabbage = "bai cai";
         Spinach = "bo cai";
         Eggplant = "qie zi";
         Beansprouts = "dou ya";
+        Longbean = "chang dou";
 
-        DefaultGravy = "";
-        MoreGravy = "jia tang";
-        LessGravy = "shao tang";
-        NoGravy = "bu yao tang";
+        DefaultGravy = NoGravy;
+        MoreGravy = "ling zhi duo yi dian";
+        LessGravy = "ling zhi shao yi dian";
+        NoGravy = "bu yao ling zhi";
 
-        DefaultSpiciness = "";
+        DefaultSpiciness = Spicy;
         Spicy = "la jiao";
         NotSpicy = "bu yao la";
 
         DefaultAddOns = "";
-        Egg = "dan";
+        FriedEgg = "chao dan";
+        SteamedEgg = "shui dan";
+        SunnySideUpEgg = "he bao dan";
         TofuCubes = "dou fu kuai";
         Otah = "otah";
 
         DefaultLocation = HavingHere;
-        HavingHere = "li yong";
+        HavingHere = "chi de";
         TakeAway = "da bao";
 
         ----
 
-        Order bai fan ji rou bai cai jia tang bu yao la dan da bao = bai fan ++ ji rou ++ bai cai ++ jia tang ++ bu yao la ++ dan ++ da bao;
+        GeiWo bai fan mai pian ji rou bai cai jia tang bu yao la chao dan da bao = bai fan ++ mai pian ++ ji rou ++ bai cai ++ jia tang ++ bu yao la ++ chao dan ++ da bao;
 
 }

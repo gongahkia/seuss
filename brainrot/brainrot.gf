@@ -19,6 +19,6 @@ abstract Brainrot = {
 
       ----
 
-      RotAbout : Person -> Phrase -> AddOns -> Reference -> Rot;
+      YapAbout : Person -> Phrase -> AddOns -> Reference -> Rot;
 
 }
