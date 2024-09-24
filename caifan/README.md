@@ -1,1 +1,1 @@
-![](https://media.theindependent.sg/wp-content/uploads/2023/04/Economical_rice_stall_in_a_coffee_shop_in_Singapore_-_20131031-cai-png-cai-fan.jpg)
+![](https://media-cdn.tripadvisor.com/media/photo-s/07/6a/f0/5b/isle-eating-house.jpg)
