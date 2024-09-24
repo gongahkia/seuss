@@ -1,7 +1,5 @@
-# if there ever was to be [a universal language](https://en.wikipedia.org/wiki/Universal_language)
+# `seuss`
 
-to add
+To arrive at [universal communication](https://en.wikipedia.org/wiki/Universal_language).
 
-* `singlish.gf`
-* `caifan.gf`
-* `yapping.gf`
+![](https://images.artbrokerage.com/artthumb/geisel_162877_9/632x632/Dr_Seuss_Oh_the_Stuff_You_Will_Learn_CP.jpg)
