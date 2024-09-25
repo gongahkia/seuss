@@ -1,1 +1,1 @@
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_S2a5DQbaiD2349knH2_YTmqWtCI-oRyezw&s)
+![](https://preview.redd.it/actual-brainrot-v0-ft4r2p2etpcc1.jpeg?width=745&format=pjpg&auto=webp&s=d91597948719511ce6789dc27426836717994dc3)
